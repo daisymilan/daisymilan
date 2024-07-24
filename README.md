@@ -1,6 +1,13 @@
 Hi 👋, I'm Daisy
 A Passionate Developer and Tech Enthusiast
 
+### 🛠️ Skills and Technologies:
+
+- **Front-End:** HTML, CSS, JavaScript, React
+- **Back-End:** Node.js
+- **Databases:** MongoDB, SQL
+- **Version Control:** Git, GitHub
+
 🔭 Current Focus: Fullstack Development
 
 🏆 Goal: To leverage technology for making a significant positive impact in the world.
@@ -9,4 +16,4 @@ A Passionate Developer and Tech Enthusiast
 
 👨‍💻 Personal Projects: Check out my work at https://github.com/daisymilan
 
-📫 Reach Me: https://www.linkedin.com/in/daisy-milan-04993bb9/
+📫 LinkedIn Profile: https://www.linkedin.com/in/daisy-milan-04993bb9/
