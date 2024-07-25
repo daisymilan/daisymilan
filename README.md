@@ -19,15 +19,13 @@ A Passionate Developer and Tech Enthusiast
 
 👨‍💻 Personal Projects: Check out my work at https://github.com/daisymilan
 
-<<<<<<< HEAD
-📫 LinkedIn Profile: https://www.linkedin.com/in/daisy-milan-04993bb9/
 =======
 📫 Reach Me: https://www.linkedin.com/in/daisy-milan-04993bb9/
 
 ### Connect with Me:
+
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/daisy.d01)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daisy-milan-04993bb9/)
-
 
 ---
 
@@ -69,4 +67,3 @@ A Passionate Developer and Tech Enthusiast
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack)
 
 ---
->>>>>>> 6f708cefc231e39acca3d23a3fdd0e09035b6dd1
