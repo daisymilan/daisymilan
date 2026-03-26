@@ -1,69 +1,79 @@
-Hi 👋, I'm Daisy
+👋 Hi, I’m Daisy Milan
 
-![image](https://github.com/user-attachments/assets/d833dc2f-9e2b-4ef1-a1e6-b877018d64bb)
+🚀 Full Stack Developer | AI & Automation Engineer | n8n Specialist
 
-A Passionate Developer and Tech Enthusiast
+I build scalable automation systems, AI-powered tools, and high-converting digital experiences that save time, increase revenue, and simplify complex workflows.
 
-### 🛠️ Skills and Technologies:
+💡 What I Do Best
+⚙️ Build end-to-end automation systems using n8n, APIs, and custom logic
+🤖 Develop AI-powered applications & agents (Gemini, Grok, OpenAI, DeepSeek)
+🛒 Optimize e-commerce systems (Shopify, WooCommerce, conversions, retention)
+📊 Design data-driven dashboards & workflows (Supabase, SQL, analytics)
+🌐 Create modern web apps (React, Node.js, full-stack architecture)
+🧠 Real-World Projects
+🏡 Real Estate Automation System
+Automated listing → content → posting pipeline
+Generates captions, videos, and social posts from raw data
+Integrates Canva, AI, and multi-platform publishing
+🧴 AI System for Luxury Brand
+Built AI-powered marketing + B2B outreach system
+Automated SEO, email flows, and customer journeys
+Integrated WooCommerce, Grok AI, HubSpot, Klaviyo
+📚 “Book Whisperer” AI Agent
+Interactive AI that helps users create full book outlines
+Uses structured frameworks + memory + guided prompts
+Built with n8n + Gemini + Airtable
+🤖 Multi-Agent SaaS (In Progress)
+AI agents that collaborate, store memory, and handle workflows
+Designed for teams + deep research automation
+🛠️ Tech Stack
 
-- **Front-End:** HTML, CSS, JavaScript, React
-- **Back-End:** Node.js
-- **Databases:** MongoDB, SQL
-- **Version Control:** Git, GitHub
+Frontend
+HTML • CSS • JavaScript • React
 
-🔭 Current Focus: Fullstack Development
+Backend & Automation
+Node.js • n8n • Power Automate • REST APIs
 
-🏆 Goal: To leverage technology for making a significant positive impact in the world.
+AI & Tools
+Gemini • Grok xAI • OpenAI • DeepSeek
 
-🌱 Motto: Innovate for a better tomorrow.
+Database
+Supabase • MongoDB • SQL
 
-👨‍💻 Personal Projects: Check out my work at https://github.com/daisymilan
+Other
+Git • GitHub • Webhooks • JSON • Workflow Design
 
-=======
-📫 Reach Me: https://www.linkedin.com/in/daisy-milan-04993bb9/
+📈 What Makes Me Different
 
-### Connect with Me:
+✔ I don’t just code — I solve business problems
+✔ I specialize in automation + AI (high-demand, high-impact)
+✔ I’ve built systems that replace manual work entirely
+✔ I understand both tech + marketing (rare combo)
+✔ I move fast, adapt fast, and figure things out independently
 
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/daisy.d01)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daisy-milan-04993bb9/)
+🎯 Current Focus
+Building AI agents & automation systems at scale
+Developing SaaS products powered by AI
+Helping businesses automate operations & increase efficiency
+🌱 A Bit More About Me
 
----
+I’m passionate about using technology to create real impact — not just features.
 
-### Languages and Tools:
+I’ve worked across:
 
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Babel](https://img.shields.io/badge/-Babel-F9DC3E?style=flat-square&logo=babel)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
-![Framer](https://img.shields.io/badge/-Framer-0055FF?style=flat-square&logo=framer)
-![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat-square&logo=gatsby)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack)
+E-commerce
+Automation systems
+AI product development
+Workflow optimization
 
----
+And I’m always exploring how to make systems smarter, faster, and more human-friendly.
+
+🔗 Let’s Connect
+💼 LinkedIn: https://www.linkedin.com/in/daisy-milan-04993bb9/
+💻 GitHub: https://github.com/daisymilan
+⚡ Fun Fact
+
+I build systems that:
+👉 turn raw data into content
+👉 replace repetitive work
+👉 and sometimes… feel like magic ✨
