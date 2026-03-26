@@ -10,22 +10,28 @@ I build scalable automation systems, AI-powered tools, and high-converting digit
 🛒 Optimize e-commerce systems (Shopify, WooCommerce, conversions, retention)
 📊 Design data-driven dashboards & workflows (Supabase, SQL, analytics)
 🌐 Create modern web apps (React, Node.js, full-stack architecture)
+
 🧠 Real-World Projects
 🏡 Real Estate Automation System
 Automated listing → content → posting pipeline
 Generates captions, videos, and social posts from raw data
 Integrates Canva, AI, and multi-platform publishing
+
 🧴 AI System for Luxury Brand
 Built AI-powered marketing + B2B outreach system
 Automated SEO, email flows, and customer journeys
 Integrated WooCommerce, Grok AI, HubSpot, Klaviyo
+
 📚 “Book Whisperer” AI Agent
 Interactive AI that helps users create full book outlines
 Uses structured frameworks + memory + guided prompts
 Built with n8n + Gemini + Airtable
+
 🤖 Multi-Agent SaaS (In Progress)
 AI agents that collaborate, store memory, and handle workflows
 Designed for teams + deep research automation
+
+
 🛠️ Tech Stack
 
 Frontend
