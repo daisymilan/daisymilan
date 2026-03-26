@@ -1,111 +1,140 @@
 # 👋 Hi, I’m Daisy Milan  
 
-🚀 **Full Stack Developer | AI & Automation Engineer | n8n Specialist**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+Automation+Engineer;Full+Stack+Developer;n8n+Expert;I+Build+Systems+That+Save+Time+%26+Increase+Revenue&center=true&width=600&height=50">
+</p>
 
-I build **scalable automation systems, AI-powered tools, and high-converting digital experiences** that save time, increase revenue, and simplify complex workflows.
-
----
-
-## 💡 What I Do Best
-
-- ⚙️ Build **end-to-end automation systems** using n8n, APIs, and custom logic  
-- 🤖 Develop **AI-powered applications & agents** (Gemini, Grok, OpenAI, DeepSeek)  
-- 🛒 Optimize **e-commerce systems** (Shopify, WooCommerce, conversions, retention)  
-- 📊 Design **data-driven dashboards & workflows** (Supabase, SQL, analytics)  
-- 🌐 Create **modern web apps** (React, Node.js, full-stack architecture)  
-
----
-
-## 🧠 Real-World Projects
-
-### 🏡 Real Estate Automation System  
-- Automated listing → content → posting pipeline  
-- Generates captions, videos, and social posts from raw data  
-- Integrates Canva, AI, and multi-platform publishing  
-
-### 🧴 AI System for Luxury Brand
-- Built AI-powered marketing + B2B outreach system  
-- Automated SEO, email flows, and customer journeys  
-- Integrated WooCommerce, Grok AI, HubSpot, Klaviyo  
-
-### 📚 “Book Whisperer” AI Agent  
-- Interactive AI that helps users create full book outlines  
-- Uses structured frameworks + memory + guided prompts  
-- Built with n8n + Gemini + Airtable  
-
-### 🤖 Multi-Agent SaaS (In Progress)  
-- AI agents that collaborate, store memory, and handle workflows  
-- Designed for teams + deep research automation  
+<p align="center">
+  <a href="https://github.com/daisymilan">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-black?logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/daisy-milan-04993bb9/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-blue?logo=linkedin">
+  </a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+🚀 **AI & Automation Engineer | Full Stack Developer | Workflow Specialist**
+
+I help businesses **eliminate manual work, automate operations, and scale faster** using AI, APIs, and smart systems.
+
+---
+
+## 💼 What I Can Do For You
+
+✔ Automate repetitive tasks → **save hours every week**  
+✔ Build AI-powered tools → **increase productivity & output**  
+✔ Connect your apps (CRM, email, APIs) → **no more manual syncing**  
+✔ Create custom dashboards → **see your data clearly**  
+✔ Optimize your systems → **faster workflows, fewer errors**
+
+---
+
+## 🔥 High-Impact Work I've Done
+
+### 🏡 Real Estate Automation System
+- Automated listing → content → posting workflow  
+- Turned raw property data into ready-to-post content  
+- Reduced manual workload significantly  
+
+---
+
+### 🧴 AI Automation for Luxury Brand 
+- Built AI-driven marketing + B2B outreach system  
+- Automated SEO, email flows, and customer engagement  
+- Connected WooCommerce, AI tools, and CRM systems  
+
+---
+
+### 📚 AI “Book Whisperer” Tool
+- Built an AI system that guides users to create full book outlines  
+- Uses structured logic + memory + smart prompts  
+- Fully automated workflow from input → final output  
+
+---
+
+### 🤖 Multi-Agent AI System (Ongoing)
+- AI agents that collaborate and share memory  
+- Designed for automation-heavy workflows and research  
+- Built for scalable SaaS use  
+
+---
+
+## 🛠️ Tools & Technologies
+
+**Automation & Backend**  
+- n8n (Advanced workflows)  
+- Node.js  
+- APIs & Webhooks  
+- Power Automate  
+
+**AI Integration**  
+- Gemini  
+- OpenAI  
+- Grok xAI  
+- DeepSeek  
 
 **Frontend**  
-- HTML  
-- CSS  
-- JavaScript  
 - React  
-
-**Backend & Automation**  
-- Node.js  
-- n8n  
-- Power Automate  
-- REST APIs  
-
-**AI & Tools**  
-- Gemini  
-- Grok xAI  
-- OpenAI  
-- DeepSeek  
+- JavaScript  
+- HTML / CSS  
 
 **Database**  
 - Supabase  
 - MongoDB  
 - SQL  
 
-**Other**  
-- Git  
-- GitHub  
-- Webhooks  
-- JSON  
-- Workflow Design  
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=daisymilan&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=daisymilan&theme=tokyonight" />
+</p>
 
 ---
 
-## 📈 What Makes Me Different
+## 🧠 Why Clients Hire Me
 
-- ✔ I don’t just code — I **solve business problems**  
-- ✔ I specialize in **automation + AI (high-demand, high-impact)**  
-- ✔ I’ve built systems that **replace manual work entirely**  
-- ✔ I understand both **tech + marketing (rare combo)**  
-- ✔ I move fast, adapt fast, and **figure things out independently**  
+- I focus on **results, not just code**  
+- I understand both **technical systems + business needs**  
+- I build solutions that **actually get used**  
+- I communicate clearly and deliver reliably  
+- I can work independently (perfect for remote teams)
+
+---
+
+## 🌍 Remote Work Ready
+
+✔ Experience working with international clients  
+✔ Async communication friendly  
+✔ Comfortable with APIs, documentation, and fast iteration  
+✔ Can jump into existing systems and improve them quickly  
 
 ---
 
 ## 🎯 Current Focus
 
-- Building **AI agents & automation systems at scale**
-- Developing **SaaS products powered by AI**
-- Helping businesses **automate operations & increase efficiency**
+- AI automation systems  
+- Multi-agent workflows  
+- SaaS development  
+- Business process automation  
 
 ---
 
-## 🌱 A Bit More About Me
+## 📬 Let’s Work Together
 
-I’m passionate about using technology to **create real impact** — not just features.
+If you’re looking to:
+- Automate your business  
+- Build AI-powered tools  
+- Save time and increase efficiency  
 
-I’ve worked across:
-- E-commerce  
-- Automation systems  
-- AI product development  
-- Workflow optimization  
-
-And I’m always exploring how to make systems **smarter, faster, and more human-friendly**.
-
----
-
-## 🔗 Let’s Connect
+👉 I’d love to help.
 
 - 💼 LinkedIn: https://www.linkedin.com/in/daisy-milan-04993bb9/  
 - 💻 GitHub: https://github.com/daisymilan  
@@ -114,7 +143,4 @@ And I’m always exploring how to make systems **smarter, faster, and more human
 
 ## ⚡ Fun Fact
 
-I build systems that:
-- 👉 turn raw data into content  
-- 👉 replace repetitive work  
-- 👉 and sometimes… feel like magic ✨  
+I love turning messy, manual processes into **clean, automated systems that just work** ✨
